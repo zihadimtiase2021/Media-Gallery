@@ -1,0 +1,130 @@
+{
+  "categories": [
+    "Landscapes",
+    "Architecture",
+    "Portraits",
+    "Street"
+  ],
+  "media": [
+    {
+      "id": "mountain-lake",
+      "title": "Still Water",
+      "location": "Dolomites, Italy",
+      "year": 2024,
+      "category": "Landscapes",
+      "type": "photo",
+      "src": "/gallery/mountain-lake.png",
+      "ratio": 0.75
+    },
+    {
+      "id": "coastal-cliffs",
+      "title": "Edge of the Atlantic",
+      "location": "County Clare, Ireland",
+      "year": 2023,
+      "category": "Landscapes",
+      "type": "photo",
+      "src": "/gallery/coastal-cliffs.png",
+      "ratio": 1.5
+    },
+    {
+      "id": "desert-dunes",
+      "title": "Golden Hour Dunes",
+      "location": "Merzouga, Morocco",
+      "year": 2023,
+      "category": "Landscapes",
+      "type": "video",
+      "src": "/gallery/desert-dunes.png",
+      "ratio": 1.5
+    },
+    {
+      "id": "forest-fog",
+      "title": "Morning Pines",
+      "location": "Black Forest, Germany",
+      "year": 2022,
+      "category": "Landscapes",
+      "type": "photo",
+      "src": "/gallery/forest-fog.png",
+      "ratio": 0.75
+    },
+    {
+      "id": "concrete-facade",
+      "title": "Concrete Rhythm",
+      "location": "Marseille, France",
+      "year": 2024,
+      "category": "Architecture",
+      "type": "photo",
+      "src": "/gallery/concrete-facade.png",
+      "ratio": 0.72
+    },
+    {
+      "id": "spiral-stairs",
+      "title": "Ascension",
+      "location": "Lisbon, Portugal",
+      "year": 2023,
+      "category": "Architecture",
+      "type": "photo",
+      "src": "/gallery/spiral-stairs.png",
+      "ratio": 0.75
+    },
+    {
+      "id": "portrait-woman",
+      "title": "Window Light",
+      "location": "Studio No. 4",
+      "year": 2024,
+      "category": "Portraits",
+      "type": "photo",
+      "src": "/gallery/portrait-woman.png",
+      "ratio": 0.78
+    },
+    {
+      "id": "portrait-man",
+      "title": "Weathered",
+      "location": "Havana, Cuba",
+      "year": 2022,
+      "category": "Portraits",
+      "type": "photo",
+      "src": "/gallery/portrait-man.png",
+      "ratio": 0.8
+    },
+    {
+      "id": "still-life",
+      "title": "Ceramics & Bloom",
+      "location": "Studio No. 4",
+      "year": 2023,
+      "category": "Portraits",
+      "type": "photo",
+      "src": "/gallery/still-life.png",
+      "ratio": 0.8
+    },
+    {
+      "id": "street-market",
+      "title": "Market Motion",
+      "location": "Marrakech, Morocco",
+      "year": 2023,
+      "category": "Street",
+      "type": "video",
+      "src": "/gallery/street-market.png",
+      "ratio": 1.5
+    },
+    {
+      "id": "neon-alley",
+      "title": "After the Rain",
+      "location": "Tokyo, Japan",
+      "year": 2024,
+      "category": "Street",
+      "type": "photo",
+      "src": "/gallery/neon-alley.png",
+      "ratio": 0.72
+    },
+    {
+      "id": "abstract-paint",
+      "title": "Earth Study",
+      "location": "Studio No. 4",
+      "year": 2022,
+      "category": "Street",
+      "type": "photo",
+      "src": "/gallery/abstract-paint.png",
+      "ratio": 1.5
+    }
+  ]
+}
